@@ -56,3 +56,13 @@ We can configure the transaction manager bean by following steps:
 
 Create a new JpaTransactionManager object.
 Configure the entity manager factory whose transactions are managed by the created JpaTransactionManager object.
+
+# Snapshot
+ ![Select](https://github.com/rohitkumarsinghcse/Integration-of-Hibernates-Multitenant-feature-with-Spring-Data-JPA-in-a-Spring-application/assets/91533334/77a73fcd-7289-4c71-af80-6c4d93f3437d)
+
+ 
+![Home](https://github.com/rohitkumarsinghcse/Integration-of-Hibernates-Multitenant-feature-with-Spring-Data-JPA-in-a-Spring-application/assets/91533334/46187601-7ed6-41d0-a7d7-91106ae28c20)
+
+
+![Details](https://github.com/rohitkumarsinghcse/Integration-of-Hibernates-Multitenant-feature-with-Spring-Data-JPA-in-a-Spring-application/assets/91533334/26e79978-2b2b-4566-92bd-f5bd00b89b4c)
+
