@@ -1,5 +1,7 @@
 # Integration-of-Hibernates-Multitenant-feature-with-Spring-Data-JPA-in-a-Spring-application
 The Java Persistence API provides Java developers with an api for mapping java objects to relational data.The JPA API, JPQL (Java Persistence query language), Java Persistence Criteria API and how you can perform ORM (Object Relational Mapping) with JPA.
+         ![images](https://github.com/rohitkumarsinghcse/Integration-of-Hibernates-Multitenant-feature-with-Spring-Data-JPA-in-a-Spring-application/assets/91533334/328b07dd-5a89-4591-95bb-573523e08065)
+
 
 # Introduction
 Hibernate is the most popular implementation of JPA. It was the most popular ORM framework option before JPA emerged and it provides additional features on top of JPA. We will use Hibernate as the implementation in this course.
@@ -26,6 +28,7 @@ Controller layer:
 @Autowired: This annotation can be used to autowire bean on the setter method just like @Required annotation, constructor, a property, or methods with arbitrary names and/or multiple arguments.
 
 
+![OIP](https://github.com/rohitkumarsinghcse/Integration-of-Hibernates-Multitenant-feature-with-Spring-Data-JPA-in-a-Spring-application/assets/91533334/a29d9a4e-6170-479c-9e11-84df324150d4)
 
 
 # Spring JPA Configuration:  
