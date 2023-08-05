@@ -1,0 +1,10 @@
+CREATE TABLE `amazon_orders` (
+  `productId` int NOT NULL,
+  `productCategory` varchar(255) DEFAULT NULL,
+  `productName` varchar(255) DEFAULT NULL,
+  `productPrice` int DEFAULT NULL,
+  `productQTY` int DEFAULT NULL,
+  `productRating` int DEFAULT NULL,
+  `productTotalAmount` int DEFAULT NULL,
+  PRIMARY KEY (`productId`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
