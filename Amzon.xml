@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">productId</Data></Cell>
+			<Cell><Data ss:Type="String">productCategory</Data></Cell>
+			<Cell><Data ss:Type="String">productName</Data></Cell>
+			<Cell><Data ss:Type="String">productPrice</Data></Cell>
+			<Cell><Data ss:Type="String">productQTY</Data></Cell>
+			<Cell><Data ss:Type="String">productRating</Data></Cell>
+			<Cell><Data ss:Type="String">productTotalAmount</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">101</Data></Cell>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="String">Milk</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">102</Data></Cell>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="String">Water</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">103</Data></Cell>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="String">Sprite</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">104</Data></Cell>
+			<Cell><Data ss:Type="String">Grocery</Data></Cell>
+			<Cell><Data ss:Type="String">Atta</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">105</Data></Cell>
+			<Cell><Data ss:Type="String">Grocery</Data></Cell>
+			<Cell><Data ss:Type="String">Rice</Data></Cell>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">106</Data></Cell>
+			<Cell><Data ss:Type="String">Grocery</Data></Cell>
+			<Cell><Data ss:Type="String">Daal</Data></Cell>
+			<Cell><Data ss:Type="Number">150</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">107</Data></Cell>
+			<Cell><Data ss:Type="String">Grocery</Data></Cell>
+			<Cell><Data ss:Type="String">Salt</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">108</Data></Cell>
+			<Cell><Data ss:Type="String">Grocery</Data></Cell>
+			<Cell><Data ss:Type="String">Sugar</Data></Cell>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">109</Data></Cell>
+			<Cell><Data ss:Type="String">Electronic</Data></Cell>
+			<Cell><Data ss:Type="String">Laptop</Data></Cell>
+			<Cell><Data ss:Type="Number">35000</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">40000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">110</Data></Cell>
+			<Cell><Data ss:Type="String">Electronic</Data></Cell>
+			<Cell><Data ss:Type="String">Mobile</Data></Cell>
+			<Cell><Data ss:Type="Number">15000</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">17000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">111</Data></Cell>
+			<Cell><Data ss:Type="String">Electronic</Data></Cell>
+			<Cell><Data ss:Type="String">MemoryCard</Data></Cell>
+			<Cell><Data ss:Type="Number">250</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">260</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
