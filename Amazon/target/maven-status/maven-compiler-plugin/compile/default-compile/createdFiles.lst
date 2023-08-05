@@ -1,0 +1,6 @@
+amazon\config\Spring_Data_JPA_Database_Configuration.class
+amazon\entityclass\Amazon_Orders.class
+amazon\operation\Amazon_Orders_Operation.class
+amazon\repository\Amazon_Orders_Repository.class
+amazon\app\Amazon_Application.class
+amazon\main\Amazon_Orders_Main_Application.class
